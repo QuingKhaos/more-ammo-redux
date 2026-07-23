@@ -1,10 +1,11 @@
 mod_info:
   title: |
-    ###TITLE###
+    More Ammo Redux
   summary: |
-    ###DESC###
+    Fully configurable new ammo and high capacity ammo for all your military needs. Serves as a drop-in replacement for the More Ammo mod for 2.1, but supports 2.0 too.
   description_file: README.md
   attach_source_link: true
   license: default_gnugplv3
-  category: internal
-  tags: []
+  category: content
+  tags:
+    - combat

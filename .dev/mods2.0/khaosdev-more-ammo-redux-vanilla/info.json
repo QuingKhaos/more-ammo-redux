@@ -1,6 +1,6 @@
 {
-  "name": "khaosdev-###NAME###-space-age",
-  "title": "// DEV // ###TITLE### // Space Age",
+  "name": "khaosdev-more-ammo-redux-vanilla",
+  "title": "// DEV // More Ammo Redux // Vanilla",
   "description": "",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
@@ -8,9 +8,9 @@
   "factorio_version": "2.0",
   "dependencies": [
     "base",
-    "elevated-rails",
-    "quality",
-    "space-age",
+    "! elevated-rails",
+    "! quality",
+    "! space-age",
 
     "khaosdev",
     "BeltsAndMoreAnimationFreeze",
@@ -20,14 +20,12 @@
     "barrel-stages",
     "barreling-group2",
     "khaosammogroup",
-    "khaosbioprocessinggroup",
-    "khaoscastinggroup",
     "khaoscircuitrygroup",
     "khaosmodulesgroup",
     "khaostransportgroup",
     "science-tab",
 
-    "###NAME###"
+    "more-ammo-redux"
   ],
   "spoiling_required": true
 }

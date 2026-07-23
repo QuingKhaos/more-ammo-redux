@@ -1,0 +1,37 @@
+{
+  "item": [
+    ["tungsten-rounds-magazine", "hp-rounds-magazine"],
+
+    ["empty-high-capacity-recipe", "high-capacity-empty-magazine"],
+    ["high-capacity-tungsten-rounds-magazine", "high-capacity-hp-rounds-magazine"],
+
+    ["empty-high-capacity-shotgun-recipe", "high-capacity-empty-shotgun-shell"]
+  ],
+  "recipe": [
+    ["empty-recipe", "empty-magazine"],
+    ["tungsten-ammo-recipe", "hp-rounds-magazine"],
+    ["fmj-ammo-recipe", "fmj-rounds-magazine"],
+    ["sp-ammo-recipe", "sp-rounds-magazine"],
+    ["acid-ammo-recipe", "acid-rounds-magazine"],
+    ["fire-ammo-recipe", "fire-rounds-magazine"],
+    ["he-ammo-recipe", "he-rounds-magazine"],
+
+    ["empty-high-capacity-recipe", "high-capacity-empty-magazine"],
+    ["high-capacity-tungsten-ammo-recipe", "high-capacity-hp-rounds-magazine"],
+    ["high-capacity-fmj-ammo-recipe", "high-capacity-fmj-rounds-magazine"],
+    ["high-capacity-sp-ammo-recipe", "high-capacity-sp-rounds-magazine"],
+    ["high-capacity-acid-ammo-recipe", "high-capacity-acid-rounds-magazine"],
+    ["high-capacity-fire-ammo-recipe", "high-capacity-fire-rounds-magazine"],
+    ["high-capacity-he-ammo-recipe", "high-capacity-he-rounds-magazine"],
+
+    ["empty-shotgun-recipe", "empty-shotgun-shell"],
+    ["uranium-shotgun-recipe", "uranium-shotgun-shell"],
+
+    ["empty-high-capacity-shotgun-recipe", "high-capacity-empty-shotgun-shell"],
+    ["high-capacity-uranium-shotgun-recipe", "high-capacity-uranium-shotgun-shell"]
+  ],
+  "technology": [
+    ["unlock-ammo", "advanced-ammo"],
+    ["unlock-high-capacity-ammo", "high-capacity-advanced-ammo"]
+  ]
+}

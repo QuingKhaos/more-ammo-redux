@@ -5,7 +5,7 @@
             {
                 "path": "{env:FACTORIO_WORKSPACE}",
                 "ignore": [
-                    "###NAME###",
+                    "more-ammo-redux",
                     "glutenfree"
                 ]
             }
@@ -13,7 +13,7 @@
         "moduleMap": [
             {
                 "pattern": "^(.*)$",
-                "replace": "__###NAME###__.$1"
+                "replace": "__more-ammo-redux__.$1"
             }
         ]
     }
