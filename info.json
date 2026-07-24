@@ -4,14 +4,14 @@
   "description": "Fully configurable new ammo and high capacity ammo for all your military needs. Serves as a drop-in replacement for the More Ammo mod for 2.1, but supports 2.0 too.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.0.0",
-  "factorio_version": "2.0",
+  "version": "2.0.0",
+  "factorio_version": "2.1",
   "dependencies": [
-    "base >= 2.0.77",
+    "base >= 2.1.11",
 
-    "? khaosammogroup >= 1.4.1",
-    "khaosbash >= 1.2.0",
-    "khaoslib >= 1.17.2",
+    "? khaosammogroup >= 2.4.1",
+    "khaosbash >= 2.1.0",
+    "khaoslib >= 2.0.0",
 
     "! More_Ammo"
   ],
