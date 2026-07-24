@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2026-07-24
   Features:
     - Implement More Ammo Redux from scratch, with bugfixes and improvements.
