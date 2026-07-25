@@ -4,7 +4,7 @@
   "description": "Fully configurable new ammo and high capacity ammo for all your military needs. Serves as a drop-in replacement for the More Ammo mod for 2.1, but supports 2.0 too.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.11",
